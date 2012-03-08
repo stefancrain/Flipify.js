@@ -13,10 +13,11 @@ Flipify.js is a jQuery plugin that turns a boring count-up display into a beauti
 * Jquery 1.5 +
 * A modern web browser (IE7+)
 
- 
-
 ## Step 1: Get the Code
 
 Download the latest release and unpack the source code.
 
+
+## Credits
+Studied source of http://code.google.com/p/jquery-countdown/issues/attachmentText?id=15&aid=150000000&name=jquery.countdown.js To help me reverse engineer.
 
